@@ -1,0 +1,74 @@
+/* body css */
+body {
+  background-color: lightgrey;
+}
+
+/* header css */
+header {
+  background-color: lightslategray;
+  text-align: center;
+}
+
+h1, h2, h3 {
+  font-family: Consolas;
+}
+
+/* nav css */
+nav {
+  text-align: right;
+}
+
+ul {
+  background-color: black;
+  list-style: none;
+  text-align: center;
+}
+
+li {
+  display: inline;
+}
+
+a {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  color: red;
+  margin: 10%;
+}
+
+a:hover {
+  color: white;
+}
+
+/* figure css */
+figure {
+  position: relative;
+  left: 25%;
+}
+
+#secret {
+  color: darkblue;
+}
+
+/* form css */
+section {
+  background-color: beige;
+}
+
+label {
+  width: 150px;
+  display: inline-block;
+}
+
+
+/* footer css */
+footer {
+  background-color: lightslategray;
+}
+
+p {
+  text-align: right;
+}
+
+.secret-class {
+  color:red;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
