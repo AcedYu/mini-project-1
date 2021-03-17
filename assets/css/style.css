@@ -40,8 +40,10 @@ a:hover {
 
 /* figure css */
 figure {
-  position: relative;
-  left: 25%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: fit-content;
 }
 
 #secret {
